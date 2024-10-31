@@ -36,7 +36,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '⚠️ *Note:* All actions are for demonstration purposes only.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             '',
-            '> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴍɪᴋᴀ ᴍᴀɪɴ☣*'
+            '> *𝗬𝗢𝗨𝗥 𝗦𝗬𝗦𝗧𝗘𝗠 𝗛𝗔𝗦 𝗕𝗘𝗘𝗡 𝗛𝗔𝗖𝗞𝗘𝗗 𝗕𝗬 𝗡𝗜𝗗𝗨 𝗧𝗘𝗖𝗛 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟💻*'
         ];
 
         for (const line of steps) {
