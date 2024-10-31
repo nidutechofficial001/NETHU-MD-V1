@@ -26,13 +26,13 @@ try{
 
 let about = ` *👋 Hello ${pushname}*
 
-*🧚QUEEN-KYLIE-MD Support Channels🧚*
+*🧚NIDU-MD Support Channels🧚*
 
-*Youtube Channel Link:* https://www.youtube.com/@Sahas_Tech
+*Youtube Channel Link:*https://youtube.com/channel/UCKr5dJTwNc4LMAvhUuYvSNQ
 
-*Whatsapp Channel Link:* https://whatsapp.com/channel/0029VaiTjMlK5cDLek3bB533
+*Whatsapp Channel Link:*https://whatsapp.com/channel/0029VaGHW65Jpe8loieBnt2W
 
-*©Qᴜᴇᴇɴ ᴋʏʟɪᴇ-ᴍᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜッ*`
+*©𝗡𝗜𝗗𝗨-𝗠𝗗💜 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝗬 𝗡𝗶𝗱𝘂𝘀𝗵𝗮𝗻ッ*`
 
 return await conn.sendMessage(from,{image: {url:`https://i.ibb.co/XLbkDd4/IMG-20240913-WA0048.jpg`},caption:about},{quoted: mek})
 
